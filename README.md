@@ -2,8 +2,6 @@
 
 Жизнь, как качели - то вверх, то вниз.
 
-
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=laputaz&show_icons=true&theme=dark"
