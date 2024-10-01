@@ -1,6 +1,6 @@
 # Laputaz
 
-<img width="1725" alt="image" src="https://github.com/user-attachments/assets/2b563f50-388b-4ab1-aea7-7a37d0d7bbc6">
+<img width="2130" alt="image" src="https://github.com/user-attachments/assets/da71596c-c8db-4ca7-b597-82e9ba63aca3">
 
 Жизнь, как качели - то вверх, то вниз.
 
